@@ -1,0 +1,5 @@
+Name,Maths,Science,English
+Ravi,75,80,70
+Meena,90,85,88
+Karthik,60,65,55
+Asha,95,90,93
